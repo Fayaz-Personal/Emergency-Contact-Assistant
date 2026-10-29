@@ -1,0 +1,12 @@
+# Eclipse specific files and folders
+bin/
+*.class
+
+# Temporary and backup files
+*.tmp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
